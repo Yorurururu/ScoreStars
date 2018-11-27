@@ -1,0 +1,23 @@
+#scorebar .score-row{
+
+    display: inline-block;
+    position: relative;
+}
+#scorebar .score-row a{
+    background: url("../img/stark2.png");
+    height: 21px;
+    position: absolute;
+}
+.clgib{
+    background: url("../img/stars2.png")!important;
+}
+
+.score{
+    position: absolute;
+    right: -45px;
+}
+.score-info{
+
+    position: absolute;
+    right: -125px;
+}
